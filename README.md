@@ -1,8 +1,11 @@
-[README.md](https://github.com/user-attachments/files/29945148/README.10.md)
-<h1 align="center">Hello, World — I'm Muhammad Faizan</h1>
+[README.md](https://github.com/user-attachments/files/29945208/README.11.md)[Uploa<h1 align="center">Hello, World — I'm Muhammad Faizan</h1>
 <h3 align="center">A Computer Science student building toward Data Science & AI</h3>
 
-<table align="center" width="100%">
+<br/>
+
+<table bgcolor="#10B981" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
 <tr><td align="center">
 
 <img src="YOUR_PHOTO_URL" width="130" height="130" style="border-radius:50%;"/>
@@ -20,10 +23,14 @@
 
 </td></tr>
 </table>
+</td></tr>
+</table>
 
 <br/>
 
-<table align="center" width="100%">
+<table bgcolor="#F59E0B" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
 <tr><td>
 
 ### About Me
@@ -32,10 +39,14 @@ I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently buil
 
 </td></tr>
 </table>
+</td></tr>
+</table>
 
 <br/>
 
-<table align="center" width="100%">
+<table bgcolor="#38BDF8" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
 <tr><td align="center">
 
 ### Currently Learning
@@ -47,10 +58,14 @@ I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently buil
 
 </td></tr>
 </table>
+</td></tr>
+</table>
 
 <br/>
 
-<table align="center" width="100%">
+<table bgcolor="#10B981" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
 <tr><td>
 
 ### Quick Facts
@@ -63,10 +78,14 @@ I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently buil
 
 </td></tr>
 </table>
+</td></tr>
+</table>
 
 <br/>
 
-<table align="center" width="100%">
+<table bgcolor="#F59E0B" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
 <tr><td align="center">
 
 ### Tech Stack
@@ -92,27 +111,35 @@ I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently buil
 
 </td></tr>
 </table>
-
-<br/>
-
-<table align="center" width="100%">
-<tr><td align="center">
-
-### GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&hide_border=false&border_color=10B981&border_radius=10&bg_color=0B1120&title_color=34D399&icon_color=F59E0B&text_color=E2E8F0&rank_icon=percentile"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&hide_border=false&border_color=10B981&border_radius=10&bg_color=0B1120&title_color=34D399&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizann&hide_border=false&border=10B981&border_radius=10&background=0B1120&stroke=38BDF8&ring=F59E0B&fire=F59E0B&currStreakLabel=34D399&sideLabels=E2E8F0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b"/>
-
 </td></tr>
 </table>
 
 <br/>
 
-<table align="center" width="100%">
+<table bgcolor="#38BDF8" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
+<tr><td align="center">
+
+### GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&hide_border=true&bg_color=0B1120&title_color=34D399&icon_color=F59E0B&text_color=E2E8F0&rank_icon=percentile"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&hide_border=true&bg_color=0B1120&title_color=34D399&text_color=E2E8F0"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizann&hide_border=true&background=0B1120&stroke=38BDF8&ring=F59E0B&fire=F59E0B&currStreakLabel=34D399&sideLabels=E2E8F0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b"/>
+
+</td></tr>
+</table>
+</td></tr>
+</table>
+
+<br/>
+
+<table bgcolor="#10B981" cellpadding="5" cellspacing="0" width="100%" border="0">
+<tr><td>
+<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
 <tr><td align="center">
 
 <i>"What I cannot create, I do not understand."</i>
@@ -125,5 +152,8 @@ Always learning, always building something.
 
 </td></tr>
 </table>
+</td></tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:10B981,100:0B1120&height=100&section=footer" width="100%"/>
+ding README (11).md…]()
