@@ -1,159 +1,331 @@
-[README.md](https://github.com/user-attachments/files/29945208/README.11.md)[Uploa<h1 align="center">Hello, World — I'm Muhammad Faizan</h1>
-<h3 align="center">A Computer Science student building toward Data Science & AI</h3>
+<!-- ========================================================= -->
+<!--                 MUHAMMAD FAIZAN GITHUB PROFILE            -->
+<!-- ========================================================= -->
 
-<br/>
+<p align="center">
+<img src="./assets/banner.png" width="100%" alt="Muhammad Faizan Banner"/>
+</p>
 
-<table bgcolor="#10B981" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td align="center">
+<h1 align="center">Hi 👋 I'm Muhammad Faizan</h1>
 
-<img src="YOUR_PHOTO_URL" width="130" height="130" style="border-radius:50%;"/>
+<h3 align="center">
+Computer Science Student • AI & Data Science Enthusiast • Software Developer
+</h3>
 
-<br/><br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=10B981&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Learning+Machine+Learning+%26+Data+Science;Passionate+about+Problem+Solving;Always+Learning+Something+New" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=580&lines=BS+Computer+Science+%40+FAST-NUCES%2C+Islamabad;Learning+Data+Structures%2C+ML+%26+AI;Full-stack+by+practice%2C+Data+Science+by+direction" alt="typing"/>
+<p align="center">
 
-<br/><br/>
+<a href="https://github.com/MuhammadFaizann">
+<img src="https://img.shields.io/github/followers/MuhammadFaizann?logo=github&style=for-the-badge"/>
+</a>
 
-<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mfaizanofficial4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/MuhammadFaizann"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=MuhammadFaizann&style=for-the-badge&color=10B981&label=PROFILE+VIEWS"/>
+<a href="mailto:mfaizanofficial4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<br/>
+</p>
 
-<table bgcolor="#F59E0B" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td>
+---
+# 💫 About Me
 
-### About Me
+I'm **Muhammad Faizan**, a **Computer Science student at FAST-NUCES Islamabad** passionate about **Artificial Intelligence, Data Science, and Software Engineering**.
 
-I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently building my foundations in **Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, and Computer Networks**. My focus is steadily shifting toward **Data Science and Applied AI/ML** — I'm comfortable working full-stack when a project calls for it, but the direction I'm growing in is analytical: models, data, and systems that learn.
+I enjoy solving algorithmic problems, building practical software, and continuously learning modern technologies. My current focus is strengthening my foundation in **Data Structures & Algorithms**, **Operating Systems**, **Computer Networks**, and **Machine Learning** while building projects that solve real-world problems.
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+I'm always open to learning, collaborating, and creating meaningful software.
 
-<br/>
+# 🛠 Tech Stack
 
-<table bgcolor="#38BDF8" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td align="center">
+<p align="center">
 
-### Currently Learning
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,tailwind,git,github,linux,vscode"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-F59E0B?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Advanced%20DSA-38BDF8?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-10B981?style=for-the-badge&labelColor=0B1120"/>
+</p>
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+---
 
-<br/>
+# 📚 Currently Exploring
 
-<table bgcolor="#10B981" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td>
+<p align="center">
 
-### Quick Facts
+<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge"/>
 
-- 🎓 BS Computer Science, FAST-NUCES Islamabad — Batch 2025, Section CS-D
-- 📊 Direction: moving from full-stack development into Data Science & AI
-- 🧩 Enjoy problem-solving through DSA and building things end-to-end
-- 🌱 Currently strengthening ML fundamentals and applied statistics
-- 📍 Based in Islamabad, Pakistan
+<img src="https://img.shields.io/badge/Data%20Science-8B5CF6?style=for-the-badge"/>
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+<img src="https://img.shields.io/badge/Algorithms-F59E0B?style=for-the-badge"/>
 
-<br/>
+<img src="https://img.shields.io/badge/System%20Design-0EA5E9?style=for-the-badge"/>
 
-<table bgcolor="#F59E0B" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td align="center">
+</p>
 
-### Tech Stack
+---
+# 🚀 Featured Projects
 
-<table align="center">
-<tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36"/><br/><sub><b>TypeScript</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36"/><br/><sub><b>C++</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36"/><br/><sub><b>Next.js</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36"/><br/><sub><b>React</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36"/><br/><sub><b>Tailwind</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" height="36"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36"/><br/><sub><b>Pandas</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36"/><br/><sub><b>NumPy</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="36" height="36"/><br/><sub><b>Jupyter</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36"/><br/><sub><b>Git</b></sub></td>
-</tr>
-</table>
+I'm currently building projects that reflect my learning journey in software engineering, AI, and data science.
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+Stay tuned—this section will soon showcase my best work.
 
-<br/>
+---
 
-<table bgcolor="#38BDF8" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td align="center">
+# 📊 GitHub Analytics
 
-### GitHub Stats
+<p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&hide_border=true&bg_color=0B1120&title_color=34D399&icon_color=F59E0B&text_color=E2E8F0&rank_icon=percentile"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&hide_border=true&bg_color=0B1120&title_color=34D399&text_color=E2E8F0"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizann&hide_border=true&background=0B1120&stroke=38BDF8&ring=F59E0B&fire=F59E0B&currStreakLabel=34D399&sideLabels=E2E8F0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b"/>
+</p>
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+<p align="center">
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizann&theme=tokyonight&hide_border=true"/>
 
-<table bgcolor="#10B981" cellpadding="5" cellspacing="0" width="100%" border="0">
-<tr><td>
-<table bgcolor="#0B1120" cellpadding="20" width="100%" border="0">
-<tr><td align="center">
+</p>
 
-<i>"What I cannot create, I do not understand."</i>
-<br/>
-<sub>— Richard Feynman</sub>
+---
 
-<br/><br/>
+# 📈 Contribution Graph
 
-Always learning, always building something.
+<p align="center">
 
-</td></tr>
-</table>
-</td></tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFaizann&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:10B981,100:0B1120&height=100&section=footer" width="100%"/>
-ding README (11).md…]()
+</p>
+
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MuhammadFaizann/MuhammadFaizann/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 🎯 2026 Learning Roadmap
+
+```text
+████████████████████████████████████████
+
+✔ C++
+✔ Python
+✔ Object-Oriented Programming
+✔ Git & GitHub
+✔ Linux Fundamentals
+
+🔄 Data Structures & Algorithms
+🔄 Operating Systems
+🔄 Computer Networks
+
+⬜ Machine Learning
+⬜ Deep Learning
+⬜ Data Science
+⬜ Computer Vision
+⬜ MLOps
+⬜ Cloud Computing
+
+████████████████████████████████████████
+```
+
+---
+
+# 💡 Development Philosophy
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
+
+> *"The best way to learn is by building things."*
+
+---
+
+# 🌟 What I'm Working On
+
+- 📚 Strengthening Data Structures & Algorithms
+- 🤖 Learning Machine Learning fundamentals
+- 🌐 Building modern full-stack applications
+- 📖 Exploring AI and Data Science
+- 🚀 Creating projects for my portfolio
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFaizann&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadFaizann&theme=github_dark" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadFaizann&theme=github_dark" width="48%"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mfaizanofficial4@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/MuhammadFaizann">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Open Source
+- Full-Stack Development
+
+# 💭 Favorite Quote
+
+<p align="center">
+
+> **"What I cannot create, I do not understand."**
+
+### — Richard Feynman
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```python
+class MuhammadFaizan:
+
+    def __init__(self):
+        self.code = True
+        self.learn = True
+        self.build = True
+        self.coffee = True
+
+    def future(self):
+        return "AI Engineer 🚀"
+```
+
+---
+
+<h3 align="center">
+Thanks for visiting! 👋
+</h3>
+
+<p align="center">
+I'm always excited to learn, build, and collaborate on meaningful projects.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,50:10B981,100:8B5CF6&section=footer"/>
+</p>
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Computer Networks
+- Machine Learning
+- Data Science
+
+---
+
+# ⚙️ Daily Routine
+
+```python
+while True:
+
+    Learn()
+
+    Code()
+
+    Build()
+
+    Debug()
+
+    Improve()
+
+    Sleep()
+
+```
+
+---
+
+# 🌍 Open Source Goals
+
+- ⭐ Contribute to Open Source
+
+- 🤖 Build AI Applications
+
+- 📊 Learn Data Science
+
+- 🚀 Publish Real Projects
+
+- 💼 Become AI Engineer
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master C++
+
+✅ Become Strong in DSA
+
+⬜ Build 10 Projects
+
+⬜ Learn Machine Learning
+
+⬜ Learn Deep Learning
+
+⬜ Learn MLOps
+
+⬜ Contribute to Open Source
+
+⬜ Build SaaS Product
+
+---
+
+# ❤️ Thanks For Visiting
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing!;Happy+Coding!+🚀"/>
+
+</p>
+
+---
+
