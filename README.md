@@ -1,152 +1,76 @@
-[README.md](https://github.com/user-attachments/files/29944655/README.1.md)
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2EC4,25:7F5AF0,50:00FFF5,75:7F5AF0,100:FF2EC4&height=260&section=header&text=MUHAMMAD%20FAIZAN&fontSize=58&fontColor=0A0118&animation=fadeIn&fontAlignY=36&desc=SYSTEM.BOOT()%20%E2%80%94%20FULL-STACK%20%2F%20AI%20ENGINEER&descAlignY=58&descSize=19&descColor=0A0118&fontWeight=900" width="100%"/>
-
-<a href="https://github.com/MuhammadFaizann">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+faizan_os+v2.6...;%3E+loading+modules%3A+nextjs%2C+typescript%2C+llm...;%3E+status%3A+shipping+products%2C+not+ideas;%3E+current_build%3A+ai_video_editor.exe&font=Fira+Code&center=true&width=700&height=45&color=00FFF5&vCenter=true&size=19&pause=1800&background=0A0118FF"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/"><img src="https://img.shields.io/badge/LINKEDIN-FF2EC4?style=for-the-badge&logo=linkedin&logoColor=0A0118&labelColor=0A0118"/></a>
-<a href="mailto:mfaizanofficial4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FFF5?style=for-the-badge&logo=gmail&logoColor=0A0118&labelColor=0A0118"/></a>
-<a href="https://github.com/MuhammadFaizann"><img src="https://img.shields.io/badge/GITHUB-7F5AF0?style=for-the-badge&logo=github&logoColor=0A0118&labelColor=0A0118"/></a>
-<img src="https://komarev.com/ghpvc/?username=MuhammadFaizann&style=for-the-badge&color=39FF14&labelColor=0A0118&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-## ```/etc/whoami```
-
-```yaml
-name: Muhammad Faizan
-role: BS Computer Science — FAST-NUCES Islamabad (Batch 2025, CS-D)
-stack: [Next.js, TypeScript, Tailwind, Groq, Gemini, C++]
-building_now: AI-powered video editing tool (EDL-based first-cut engine)
-mindset: ambitious scope, shipped in disciplined milestones
-status: ● online
-```
-
-<br/>
-
-## ⚡ ACTIVE_PROCESSES
-
+[README.md](https://github.com/user-attachments/files/29944788/README.2.md)
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="190" valign="top">
 
-```bash
-$ ./run --project=ai-video-editor
-```
-**AI Video Editing Tool** — in active R&D
-An EDL-based abstraction layer targeting a realistic
-**"AI-assisted first cut"**, not full autonomy.
-`architecture` `codec pipeline` `open-source vs API tradeoffs`
+<img src="YOUR_PHOTO_URL" width="180" style="border:1px solid #2A2E35;filter:grayscale(8%);"/>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-```bash
-$ ./run --project=khojo.pk
 ```
-**Khojo.pk** — AI shopping comparison, 🇵🇰
-Built-in AI chatbot, curated marketplace data,
-category-specific motion design.
-`Next.js` `Groq · Llama 3.3 70B` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```bash
-$ ./run --project=nexuslearn
+CALLSIGN      Muhammad Faizan
+ROLE          Full-Stack Engineer / AI Systems
+INSTITUTION   FAST-NUCES, Islamabad — CS, Batch 2025
+LOCATION      Islamabad, PK
+STATUS        ACTIVE
 ```
-**NexusLearn** — CS/AI/DS learning platform
-OS-themed UX: animated BIOS boot → live desktop.
-12 subjects, structured notes, dry-run practice sets.
-`Next.js` `TypeScript` `Tailwind`
 
-</td>
-<td width="50%" valign="top">
-
-```bash
-$ ./run --project=personal-ai-os
-```
-**Personal AI OS** — multi-agent assistant
-Schedule · Memory · Planner · Orchestrator agents
-wired to Gmail, Calendar, and my FAST timetable.
-`Groq` `Gemini` `SQLite` `Phase 1 ✅`
+<img src="https://readme-typing-svg.demolab.com/?lines=%5Bboot%5D+faizan.core+%E2%80%94+full-stack+%2F+ai+systems;%5Bcurrent%5D+ai-video-editor+%3A%3A+edl+abstraction+layer;%5Bmode%5D+shipping+in+disciplined+milestones&font=JetBrains+Mono&center=false&width=520&height=34&duration=3200&pause=1200&color=F5A623&background=0B0C0EFF&vCenter=true&size=14"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🧬 TECH_STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,js,cpp,py,nextjs,react,tailwind,nodejs,sqlite,vercel,git,vscode&theme=dark" />
+<sub>
+<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/"><img src="https://img.shields.io/badge/LinkedIn-0B0C0E?style=flat-square&logo=linkedin&logoColor=F5A623"/></a>&nbsp;
+<a href="mailto:mfaizanofficial4@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C0E?style=flat-square&logo=gmail&logoColor=F5A623"/></a>&nbsp;
+<a href="https://github.com/MuhammadFaizann"><img src="https://img.shields.io/badge/GitHub-0B0C0E?style=flat-square&logo=github&logoColor=F5A623"/></a>
+</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GROQ-FF2EC4?style=flat-square&logoColor=white&labelColor=0A0118"/>
-<img src="https://img.shields.io/badge/GEMINI-7F5AF0?style=flat-square&logoColor=white&labelColor=0A0118"/>
-<img src="https://img.shields.io/badge/LLM_INTEGRATION-00FFF5?style=flat-square&logoColor=0A0118&labelColor=0A0118"/>
-<img src="https://img.shields.io/badge/MULTI--AGENT_SYSTEMS-39FF14?style=flat-square&logoColor=0A0118&labelColor=0A0118"/>
+### manifest.log
 
-</div>
-
-<br/>
-
-## 📡 LIVE_METRICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&theme=synthwave&hide_border=true&bg_color=0A0118&title_color=00FFF5&icon_color=FF2EC4&text_color=c9c9e8&ring_color=7F5AF0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&theme=synthwave&hide_border=true&bg_color=0A0118&title_color=00FFF5&text_color=c9c9e8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizann&theme=dark&hide_border=true&background=0A0118&stroke=7F5AF0&ring=FF2EC4&fire=00FFF5&currStreakLabel=00FFF5&sideLabels=c9c9e8&currStreakNum=ffffff&sideNums=ffffff&dates=8888aa"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 ACTIVITY_LOG
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFaizann&theme=react-dark&hide_border=true&bg_color=0A0118&color=00FFF5&line=FF2EC4&point=ffffff&area=true&area_color=7F5AF0"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadFaizann&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```diff
-+ open to collaborations on AI tooling, dev platforms, and full-stack builds
-! probably shipping something new right now — check the pinned repos
+```
+┌──────────────────┬────────────────────────────────┬──────────────┐
+│ PROJECT          │ STACK                           │ STATUS       │
+├──────────────────┼────────────────────────────────┼──────────────┤
+│ ai-video-editor   │ Next.js · EDL abstraction layer│ R&D          │
+│ khojo.pk           │ Next.js · Groq (Llama 3.3 70B) │ Live build   │
+│ nexuslearn          │ Next.js · TypeScript · Tailwind│ Shipped      │
+│ personal-ai-os    │ Groq · Gemini · SQLite          │ Phase 1 done │
+│ univault           │ C++, constrained (no STL)       │ Submitted    │
+└──────────────────┴────────────────────────────────┴──────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2EC4,25:7F5AF0,50:00FFF5,75:7F5AF0,100:FF2EC4&height=120&section=footer" width="100%"/>
+*ai-video-editor — architecting the right abstraction layer for AI-assisted first cuts, and weighing open-source tooling against external APIs for the processing pipeline.*
 
-<sub>Islamabad, Pakistan 🇵🇰 · faizan_os is always compiling</sub>
+### stack
 
-</div>
+<sub>
+<img src="https://img.shields.io/badge/-TypeScript-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-JavaScript-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-C%2B%2B-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Python-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Next.js-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-React-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Tailwind-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Node.js-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-SQLite-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Groq-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Gemini-0B0C0E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Vercel-0B0C0E?style=flat-square"/>
+</sub>
+
+### metrics
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&hide_border=true&bg_color=0B0C0E&title_color=F5A623&icon_color=6B7280&text_color=EDEDED&hide_title=false"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&hide_border=true&bg_color=0B0C0E&title_color=F5A623&text_color=EDEDED&langs_count=6"/>
+
+<br/>
+
+```
+[eof]  open to collaboration on AI tooling and full-stack builds
+       reach out through the channels above
+```
