@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
+<h1 align="center">Hello, World 🌍 — I'm Muhammad Faizan</h1>
 <h3 align="center">A Computer Science student building toward Data Science & AI</h3>
+
+<p align="center">
+<img src="YOUR_PHOTO_URL" width="130" height="130" style="border-radius:50%;"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=580&lines=BS+Computer+Science+%40+FAST-NUCES%2C+Islamabad;Learning+Data+Structures%2C+ML+%26+AI;Full-stack+by+practice%2C+Data+Science+by+direction" alt="typing"/>
@@ -17,6 +21,27 @@
 ### About Me
 
 I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently building my foundations in **Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, and Computer Networks**. My focus is steadily shifting toward **Data Science and Applied AI/ML** — I'm comfortable working full-stack when a project calls for it, but the direction I'm growing in is analytical: models, data, and systems that learn.
+
+<br/>
+
+### Currently Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-F59E0B?style=for-the-badge&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Advanced%20DSA-38BDF8?style=for-the-badge&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-10B981?style=for-the-badge&labelColor=0B1120"/>
+</p>
+
+<br/>
+
+### Quick Facts
+
+- 🎓 BS Computer Science, FAST-NUCES Islamabad — Batch 2025, Section CS-D
+- 📊 Direction: moving from full-stack development into Data Science & AI
+- 🧩 Enjoy problem-solving through DSA and building things end-to-end
+- 🌱 Currently strengthening ML fundamentals and applied statistics
+- 📍 Based in Islamabad, Pakistan
 
 <br/>
 
