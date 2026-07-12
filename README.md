@@ -1,97 +1,69 @@
-[README.md](https://github.com/user-attachments/files/29944934/README.6.md)
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
+<h3 align="center">A Computer Science student building toward Data Science & AI</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,50:10B981,100:F59E0B&height=250&section=header&text=Hello,%20World%20%E2%80%94%20I'm%20Faizan&fontSize=38&fontColor=E2E8F0&fontAlignY=42&desc=Code.%20Learn.%20Grow.&descAlignY=62&descSize=18&descColor=34D399&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=580&lines=BS+Computer+Science+%40+FAST-NUCES%2C+Islamabad;Learning+Data+Structures%2C+ML+%26+AI;Full-stack+by+practice%2C+Data+Science+by+direction" alt="typing"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=16&duration=3000&pause=1200&color=34D399&background=0B1120&center=true&width=650&height=40&lines=BS+Computer+Science+%40+FAST-NUCES%2C+Islamabad;Learning+towards+Data+Science+%2B+Machine+Learning;Full-stack+dev+by+practice%2C+AI%2FDS+by+direction" alt="typing" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/></a>
-<a href="mailto:mfaizanofficial4@gmail.com"><img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/></a>
-<a href="https://github.com/MuhammadFaizann"><img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/></a>
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-faizan-178160420/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mfaizanofficial4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MuhammadFaizann"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MuhammadFaizann&style=for-the-badge&color=10B981&label=PROFILE+VIEWS"/>
+</p>
 
 <br/>
 
-<table width="100%">
+### About Me
+
+I'm a Computer Science undergraduate at **FAST-NUCES Islamabad**, currently building my foundations in **Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, and Computer Networks**. My focus is steadily shifting toward **Data Science and Applied AI/ML** — I'm comfortable working full-stack when a project calls for it, but the direction I'm growing in is analytical: models, data, and systems that learn.
+
+<br/>
+
+### Tech Stack
+
+<table align="center">
 <tr>
-<td width="150" align="center">
-<img src="YOUR_PHOTO_URL" width="130" height="130"/>
-</td>
-<td valign="middle">
-
-I'm a Computer Science student at **FAST-NUCES Islamabad**, currently building my foundations in **Data Structures & Algorithms, OOP, Operating Systems, and Computer Networks** — while steadily pointing my learning toward **Data Science and AI/ML**. I'm comfortable working full-stack when a project calls for it, but the direction I'm growing in is analytical: models, data, and systems that learn.
-
-</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36"/><br/><sub><b>React</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36"/><br/><sub><b>Tailwind</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" height="36"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36"/><br/><sub><b>Pandas</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36"/><br/><sub><b>NumPy</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="36" height="36"/><br/><sub><b>Jupyter</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36"/><br/><sub><b>Git</b></sub></td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
+### GitHub Stats
 
-<img src="https://img.shields.io/github/followers/MuhammadFaizann?style=for-the-badge&color=10B981&labelColor=0B1120&label=FOLLOWERS"/>
-<img src="https://komarev.com/ghpvc/?username=MuhammadFaizann&style=for-the-badge&color=F59E0B&labelColor=0B1120&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-## 🪐 Focus Areas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-10B981?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&labelColor=0B1120"/>
-<br/>
-<img src="https://img.shields.io/badge/Data%20Science-38BDF8?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20LLMs-10B981?style=for-the-badge&labelColor=0B1120"/>
-<br/>
-<img src="https://img.shields.io/badge/Operating%20Systems-F59E0B?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-38BDF8?style=for-the-badge&labelColor=0B1120"/>
-
-</div>
-
-<br/>
-
-## 🛠️ Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,cpp,js,nextjs,react,tailwind,nodejs,git&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-F59E0B?style=flat-square&logo=pandas&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/NumPy-F59E0B?style=flat-square&logo=numpy&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Jupyter-F59E0B?style=flat-square&logo=jupyter&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/scikit--learn-F59E0B?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0B1120"/>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Overview
-
-<div align="center">
-
+<p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizann&show_icons=true&hide_border=false&border_color=10B981&border_radius=10&bg_color=0B1120&title_color=34D399&icon_color=F59E0B&text_color=E2E8F0&rank_icon=percentile"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizann&layout=compact&hide_border=false&border_color=10B981&border_radius=10&bg_color=0B1120&title_color=34D399&text_color=E2E8F0"/>
+</p>
 
-<br/>
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizann&hide_border=false&border=10B981&border_radius=10&background=0B1120&stroke=38BDF8&ring=F59E0B&fire=F59E0B&currStreakLabel=34D399&sideLabels=E2E8F0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b"/>
-
-</div>
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
+<i>"What I cannot create, I do not understand."</i>
+<br/>
+<sub>— Richard Feynman</sub>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,50:10B981,100:F59E0B&height=120&section=footer" width="100%"/>
+<br/>
 
-<sub>Islamabad, Pakistan 🇵🇰 · Always learning, always building something</sub>
+<p align="center">Always learning, always building something.</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:10B981,100:0B1120&height=100&section=footer" width="100%"/>
